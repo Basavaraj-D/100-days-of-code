@@ -1,1 +1,19 @@
+print() - allows us to print the data into the console
+\n - new line character which allows us to enter a new line
+\t - allows us to create a tab
++ - we can use + symbol to add or join two strings 
+indentation error- when we have not spaced or indented our code we get this error
+syntax error - when quotes are not correct or not ended properly we get this error
+input() -  can be used to take input from the user
+len() - helps in knowing the length of the value
 
+variables - variables are used to store data in them which can be accessed when the user wants
+  name = "shadow" 
+here name is the variable which contains value "shadow" in it.
+things to keep in mind when creating variables:
+ - variables should not have spaces in them
+ - variable names should not be the same as any inbuilt function(just to avoid confusion)
+ - always name variables which can referred and understood easily
+ - it cannot start with a number
+ - abc,Abc,ABC,aBc,aBC are all different variables
+ - variable can contain only a-z,0-9 and _
