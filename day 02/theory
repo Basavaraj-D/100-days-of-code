@@ -1,1 +1,28 @@
+there are mainly 4 types of data types in python:
+1. strings  : these are collection of alphabets,characters or words, and it enclosed using " " or ' ' quotes
+    name = "python"
+  in python numbering starts from 0 and data can be accessed using its indexes
+ 
+2.integer: when we have whole numbers it is called as integers
+     count = 10
+
+3.float: when we have decimal numbers it is called as float
+    num = 10.90
+
+4.Boolean :  it is either True or False
+
+type error:  when  we combine different variables we get this error
+type casting : converting a variable of one type into another data type is called as typecasting
+type() - can be used to know the data type of a variable
+
+mathematical operations are  : + , -, * , /,** ,PEMDASLR,//
+
+round()- is used when we want to round a number or we do not want decimal values
+we can use +=, -=, *= , /= as a shortform when working with numbers
+
+f-string : when we try to print different data types together we have to first convert it,at that time we can use f-strings
+
+    print(f"example {} {} {} ")
+
+
 
